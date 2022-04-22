@@ -4,9 +4,6 @@
 
 <p align="center">一  般  路  过  学  生  狗</p>
 
-<img align="center" src="./img/madoka.jpg" alt="madoka" style="zoom:25%;">
-
-<p align="center">円香, 我真的好喜欢你啊, mua!</p>
 
 - 🔭 EMB&EMC Lab, School of EE @ Beijing University of Posts and Telecommunications (北京邮电大学 电子工程学院, EMBEMC实验室)
 
@@ -35,6 +32,11 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markovwang&show_icons=true&theme=dracula)
+
+
+<img align="center" src="./img/madoka.jpg" alt="madoka" style="zoom:25%;">
+
+<p align="center">円香, 我真的好喜欢你啊, mua!</p>
 
 <!--
 **markovwang/markovwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
