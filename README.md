@@ -25,6 +25,7 @@
 <img src="https://www.kernel.org/theme/images/logos/favicon.png" alt="linux" width="40" height="40"/>
 <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="py" width="130" height="40"/>
 </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markovwang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
