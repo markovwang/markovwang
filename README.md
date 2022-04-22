@@ -4,8 +4,9 @@
 
 <p align="center">一  般  路  过  学  生  狗</p>
 
-<img align="center" src="./img/madoka.jpg" alt="madoka" style="zoom:25%;">
+<img align="center" src="./img/madoka.jpg" alt="madoka" style="zoom:50%;">
 
+<p align="center">円香, 我真的好喜欢你啊, mua!</p>
 - 🔭 EMB&EMC Lab, School of EE @ Beijing University of Posts and Telecommunications (北京邮电大学 电子工程学院, EMBEMC实验室)
 - 🔭 Brain Computer Interface technology, especially the SSVEP daradigm (脑-机接口绝赞学习中)
 - 📫 How to reach me: markov_wang@outlook.com
@@ -24,7 +25,6 @@
 <img src="https://www.kernel.org/theme/images/logos/favicon.png" alt="linux" width="40" height="40"/>
 <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="py" width="130" height="40"/>
 </p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markovwang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
