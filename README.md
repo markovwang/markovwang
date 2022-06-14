@@ -1,8 +1,8 @@
-<h1 align="center">你好, 我, 24岁, 是学生(划掉重来 👋</h1>
 <h1 align="center">Hey! This is Markov Wang! 👋</h1>
-<h1 align="center">初めまして！マルコフです！👋</h1>
 
 <p align="center">一  般  路  过  学  生  狗</p>
+
+- 🧑‍💻 Inter on a *Quant Dev* position, exploring low latency system, optimizing and some statistics.
 
 
 - 🔭 EMB&EMC Lab, School of EE @ Beijing University of Posts and Telecommunications (北京邮电大学 电子工程学院, EMBEMC实验室)
