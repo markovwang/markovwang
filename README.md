@@ -1,12 +1,12 @@
 <h1 align="center">Hey! This is Markov Wang! 👋</h1>
 
-- 🧑‍💻 Inter on a *Quant Dev* position, exploring low latency system, optimizing and some statistics.
+- 🧑‍💻 One-man quant developer, interested in low-latency system, stock and computer graphics, will work on HPC after graduate.
 
 
-- 🔭 EMB&EMC Lab, School of EE @ Beijing University of Posts and Telecommunications (北京邮电大学 电子工程学院, EMBEMC实验室)
+- 🔭 EMB&EMC Lab, School of EE @ Beijing University of Posts and Telecommunications.
 
 
-- 🔭 Brain Computer Interface technology, especially the SSVEP daradigm (脑-机接口绝赞学习中)
+- 🔭 Worked on a C++ DataFrame library, an inter-process communication library and a backtest library.
 
 
 - 📫 How to reach me: markov_wang@outlook.com
