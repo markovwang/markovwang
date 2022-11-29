@@ -1,7 +1,5 @@
 <h1 align="center">Hey! This is Markov Wang! 👋</h1>
 
-<p align="center">一  般  路  过  学  生  狗</p>
-
 - 🧑‍💻 Inter on a *Quant Dev* position, exploring low latency system, optimizing and some statistics.
 
 
@@ -32,11 +30,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markovwang&show_icons=true&theme=dracula)
-
-
-<img align="center" src="./img/madoka.jpg" alt="madoka" style="zoom:25%;">
-
-<p align="center">円香, 我真的好喜欢你啊, mua!</p>
 
 <!--
 **markovwang/markovwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
