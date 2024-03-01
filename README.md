@@ -1,12 +1,16 @@
 <h1 align="center">Hey! This is Markov Wang! 👋</h1>
+(以后回家不写公司代码咯, 噜噜噜噜噜~)
 
-- 🧑‍💻 One-man quant developer, interested in low-latency system, stock and computer graphics, will work on HPC after graduate.
+- 🧑‍💻 Used to be a game developer, quant-developer during my graduate student life, now working for [Primarius Tech](https://www.primarius-tech.com/en.php) as digital simulator developer.
 
 
 - 🔭 EMB&EMC Lab, School of EE @ Beijing University of Posts and Telecommunications.
 
 
-- 🔭 Worked on a C++ DataFrame library, an inter-process communication library and a backtest library.
+- 🚀 Worked on a C++ DataFrame library, an inter-process communication library and a backtest library.
+
+
+- ⚡ Now wroking on an LLVM based commercial digital simulator and an MLIR based indivial digital simulator. (Both are close source project🥲)
 
 
 - 📫 How to reach me: markov_wang@outlook.com
